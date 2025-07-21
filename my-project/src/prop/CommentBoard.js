@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 
-
 const Message = ({content,author}) => {
     return(
         <>

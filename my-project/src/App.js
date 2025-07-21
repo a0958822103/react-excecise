@@ -1,11 +1,11 @@
 import React from 'react'
-import UseList from './useEffect-excecise/UseList';
+import Comment from './prop/CommentBoard';
 
 export default function App() {
  
   return (
     <>
-    <UseList />
+    <Comment />
     </>
   );
 }
